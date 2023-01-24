@@ -23,8 +23,8 @@ This is a frontendmentor.io challenge, and it is to build out QR code component 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/IMostafaR/Frontend-Mentor-QR-code-component-coding-challenge)
+- Live Site URL: [Add live site URL here](https://imostafar.github.io/Frontend-Mentor-QR-code-component-coding-challenge/)
 
 ### Built with
 
@@ -35,4 +35,4 @@ This is a frontendmentor.io challenge, and it is to build out QR code component 
 
 - Website - [Mostafa Ragab](https://github.com/IMostafaR)
 - Frontend Mentor - [@IMostafaR](https://www.frontendmentor.io/profile/IMostafaR)
-- Linkedin - [@yourusername](https://www.linkedin.com/in/imostafarh/)
+- Linkedin - [@imostafarh](https://www.linkedin.com/in/imostafarh/)
