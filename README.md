@@ -8,11 +8,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Screenshot](#screenshot)
 - [Links](#links)
 - [Built with](#built-with)
-- [Author](#author)
-  <<<<<<< HEAD
-  =======
-
-> > > > > > > dd3b37e4a3e2a6ebc45cc5452634442498a5a5ed
+- # [Author](#author)
 
 ## Overview
 
