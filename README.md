@@ -9,6 +9,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Links](#links)
 - [Built with](#built-with)
 - [Author](#author)
+  <<<<<<< HEAD
+  =======
+
+> > > > > > > dd3b37e4a3e2a6ebc45cc5452634442498a5a5ed
 
 ## Overview
 
@@ -20,8 +24,8 @@ This is a frontendmentor.io challenge, and it is to build out QR code component 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/IMostafaR/Frontend-Mentor-QR-code-component-coding-challenge)
-- Live Site URL: [Add live site URL here](https://imostafar.github.io/Frontend-Mentor-QR-code-component-coding-challenge/)
+- Solution URL: [https://github.com/IMostafaR/Frontend-Mentor-QR-code-component-coding-challenge](https://github.com/IMostafaR/Frontend-Mentor-QR-code-component-coding-challenge)
+- Live Site URL: [https://imostafar.github.io/Frontend-Mentor-QR-code-component-coding-challenge/](https://imostafar.github.io/Frontend-Mentor-QR-code-component-coding-challenge/)
 
 ### Built with
 
